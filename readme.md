@@ -1,1 +1,1 @@
-## Moved to gitee as unstable access in China
+## Moved to gitee as unstable access.
